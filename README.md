@@ -58,6 +58,9 @@ Everything required to assemble the macropad:
 - 1× EC11 rotary encoder
 - 1× 0.91" 128×32 OLED display
 - 4× M3×5×4 mm heat-set inserts
-- 4× M3×16 mm screws
+- 4× M3×6 mm screws
 - 1× Custom PCB
 - 1× Two-piece 3D printed enclosure
+
+- NOTE:
+- I'm only using screws in the bottom case so 16mm screws will be too long for my case, I'd like to get M36mm if possible, if its not possible I'll buy the screws myself
