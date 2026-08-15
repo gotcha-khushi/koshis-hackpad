@@ -43,7 +43,7 @@ The PCB is mounted inside the bottom case using M3 hardware, while the top and b
 
 ## Firmware
 
-The macropad is powered by the **[Seeed XIAO RP2040] and uses **QMK Firmware** for key scanning and custom keymap functionality.
+The macropad is powered by the [Seeed XIAO RP2040] and uses QMK Firmware for key scanning and custom keymap functionality.
 
 
 
